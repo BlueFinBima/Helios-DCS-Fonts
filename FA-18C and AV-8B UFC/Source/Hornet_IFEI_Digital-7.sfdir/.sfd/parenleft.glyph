@@ -1,0 +1,73 @@
+StartChar: parenleft
+Encoding: 40 40 11
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 100
+CALL
+PUSHW_3
+ 11
+ 7
+ 103
+CALL
+PUSHW_1
+ 11
+SRP0
+PUSHW_1
+ 18
+MDRP[rp0,grey]
+PUSHW_1
+ 7
+SRP0
+PUSHW_1
+ 21
+MDRP[rp0,grey]
+SVTCA[y-axis]
+PUSHW_3
+ 17
+ 13
+ 103
+CALL
+PUSHW_3
+ 4
+ 0
+ 103
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+250 640 m 1,0,-1
+ 140 640 l 1,1,-1
+ 100 680 l 1,2,-1
+ 140 720 l 1,3,-1
+ 250 720 l 1,4,-1
+ 290 680 l 1,5,-1
+ 250 640 l 1,0,-1
+60 370 m 1,6,-1
+ 40 390 l 1,7,-1
+ 40 620 l 1,8,-1
+ 90 670 l 1,9,-1
+ 120 640 l 1,10,-1
+ 120 430 l 1,11,-1
+ 60 370 l 1,6,-1
+290 40 m 1,12,-1
+ 250 0 l 1,13,-1
+ 140 0 l 1,14,-1
+ 100 40 l 1,15,-1
+ 140 80 l 1,16,-1
+ 250 80 l 1,17,-1
+ 290 40 l 1,12,-1
+120 290 m 1,18,-1
+ 120 80 l 1,19,-1
+ 90 50 l 1,20,-1
+ 40 100 l 1,21,-1
+ 40 330 l 1,22,-1
+ 60 350 l 1,23,-1
+ 120 290 l 1,18,-1
+EndSplineSet
+EndChar

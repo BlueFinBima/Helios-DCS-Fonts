@@ -1,0 +1,35 @@
+StartChar: quoteright
+Encoding: 8217 8217 102
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 100
+CALL
+PUSHW_3
+ 0
+ 2
+ 103
+CALL
+SVTCA[y-axis]
+PUSHW_1
+ 1
+MDAP[rnd]
+PUSHW_1
+ 3
+MDAP[rnd]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+300 560 m 1,0,-1
+ 260 520 l 1,1,-1
+ 220 560 l 1,2,-1
+ 220 720 l 1,3,-1
+ 300 720 l 1,4,-1
+ 300 560 l 1,0,-1
+EndSplineSet
+EndChar

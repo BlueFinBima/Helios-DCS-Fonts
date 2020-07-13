@@ -1,0 +1,187 @@
+StartChar: W
+Encoding: 87 87 58
+Width: 500
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHW_1
+ 100
+CALL
+PUSHW_1
+ 37
+MDAP[rnd]
+PUSHW_1
+ 18
+MDRP[rp0,grey]
+PUSHW_1
+ 18
+MDAP[rnd]
+PUSHW_1
+ 1
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 3
+ 96
+ 1
+ 1
+DELTAP1
+NPUSHW
+ 3
+ 192
+ 1
+ 1
+DELTAP1
+PUSHW_1
+ 0
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 1
+SRP0
+PUSHW_1
+ 5
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 3
+ 192
+ 5
+ 1
+DELTAP1
+NPUSHW
+ 3
+ 96
+ 5
+ 1
+DELTAP1
+PUSHW_1
+ 10
+MDRP[rp0,min,rnd,grey]
+PUSHW_3
+ 12
+ 5
+ 10
+SRP1
+SRP2
+IP
+PUSHW_1
+ 18
+SRP0
+PUSHW_1
+ 15
+MDRP[rp0,grey]
+PUSHW_1
+ 15
+MDAP[rnd]
+PUSHW_1
+ 18
+SRP0
+PUSHW_1
+ 22
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 16
+MDRP[rp0,grey]
+PUSHW_1
+ 16
+MDAP[rnd]
+PUSHW_1
+ 10
+SRP0
+PUSHW_1
+ 24
+MDRP[rp0,grey]
+PUSHW_1
+ 5
+SRP0
+PUSHW_1
+ 28
+MDRP[rp0,grey]
+PUSHW_1
+ 18
+SRP0
+PUSHW_1
+ 31
+MDRP[rp0,grey]
+PUSHW_1
+ 22
+SRP0
+PUSHW_1
+ 35
+MDRP[rp0,grey]
+PUSHW_1
+ 10
+SRP0
+PUSHW_1
+ 38
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_1
+ 7
+MDAP[rnd]
+PUSHW_1
+ 34
+MDAP[rnd]
+PUSHW_3
+ 28
+ 12
+ 103
+CALL
+PUSHW_1
+ 28
+SRP0
+PUSHW_1
+ 16
+MDRP[rp0,grey]
+PUSHW_3
+ 18
+ 12
+ 28
+SRP1
+SRP2
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+290 100 m 1,0,-1
+ 210 100 l 1,1,-1
+ 210 330 l 1,2,-1
+ 250 370 l 1,3,-1
+ 290 330 l 1,4,-1
+ 290 100 l 1,0,-1
+380 430 m 1,5,-1
+ 380 640 l 1,6,-1
+ 410 720 l 1,7,8
+ 450 710 450 710 460 670 c 1,9,-1
+ 460 390 l 1,10,-1
+ 440 370 l 1,11,-1
+ 380 430 l 1,5,-1
+390 0 m 1,12,-1
+ 91 0 l 1,13,14
+ 51 10 51 10 41 50 c 1,15,-1
+ 121 80 l 1,16,-1
+ 360 80 l 1,17,-1
+ 390 0 l 1,12,-1
+40 70 m 1,18,-1
+ 40 330 l 1,19,-1
+ 60 350 l 1,20,-1
+ 120 290 l 1,21,-1
+ 120 100 l 1,22,-1
+ 40 70 l 1,18,-1
+440 350 m 1,23,-1
+ 460 330 l 1,24,-1
+ 460 50 l 1,25,26
+ 450 10 450 10 410 0 c 1,27,-1
+ 380 80 l 1,28,-1
+ 380 290 l 1,29,-1
+ 440 350 l 1,23,-1
+60 370 m 1,30,-1
+ 40 390 l 1,31,-1
+ 40 670 l 1,32,33
+ 50 710 50 710 90 720 c 1,34,-1
+ 120 640 l 1,35,-1
+ 120 430 l 1,36,-1
+ 60 370 l 1,30,-1
+EndSplineSet
+EndChar

@@ -1,6 +1,6 @@
 StartChar: i
 Encoding: 105 105 67
-AltUni2: 0000ec.ffffffff.0 0000ed.ffffffff.0 0000ee.ffffffff.0
+AltUni2: 0000ee.ffffffff.0 0000ed.ffffffff.0 0000ec.ffffffff.0
 Width: 1198
 VWidth: 1637
 GlyphClass: 2

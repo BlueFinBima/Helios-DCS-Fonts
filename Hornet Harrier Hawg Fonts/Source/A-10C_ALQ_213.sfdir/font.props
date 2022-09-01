@@ -1,0 +1,92 @@
+SplineFontDB: 3.0
+FontName: A-10C_ALQ_213
+FullName: A-10C ALQ 213
+FamilyName: Helios Virtual Cockpit
+Weight: Book
+Copyright: Copyright (c) 2020, BlueFinBima\nThis is a font intended to be used by Helios Virtual Cockpit for the DCS A-10C CMSP and CMSC
+Version: 1.000
+ItalicAngle: 0
+UnderlinePosition: -120
+UnderlineWidth: 40
+Ascent: 640
+Descent: 160
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 442 -362796752 19772]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 4
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1601993503
+ModificationTime: 1651735470
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 72
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 640
+OS2TypoAOffset: 0
+OS2TypoDescent: -160
+OS2TypoDOffset: 0
+OS2TypoLinegap: 72
+OS2WinAscent: 746
+OS2WinAOffset: 0
+OS2WinDescent: 46
+OS2WinDOffset: 0
+HheadAscent: 746
+HheadAOffset: 0
+HheadDescent: -46
+HheadDOffset: 0
+OS2SubXSize: 520
+OS2SubYSize: 559
+OS2SubXOff: 0
+OS2SubYOff: 112
+OS2SupXSize: 520
+OS2SupYSize: 559
+OS2SupXOff: 0
+OS2SupYOff: 383
+OS2StrikeYSize: 39
+OS2StrikeYPos: 207
+OS2CapHeight: 730
+OS2XHeight: 731
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000003.00000000.00000000.00000000
+DEI: 91125
+ShortTable: cvt  2
+  26
+  507
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  87
+  266
+  3
+  0
+  0
+  2
+  0
+  1
+  1
+  0
+  64
+  46
+  0
+  0
+EndShort
+LangName: 1033 "" "" "A-10C_ALQ_213" "FontForge : A-10C ALQ 213 : 15-10-2020"
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 13 6
+EndSplineFont

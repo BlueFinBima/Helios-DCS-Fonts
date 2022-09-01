@@ -1,0 +1,93 @@
+SplineFontDB: 3.0
+FontName: FA-18C_Hornet_Up_Front_Controller
+FullName: F/A-18C Hornet Up Front Controller
+FamilyName: Helios Virtual Cockpit
+Weight: Book
+Copyright: (c) Copyright Helios Virtual Cockpit Contributors 2019.  All Rights Reserved.\n
+Version: 1.6
+ItalicAngle: 0
+UnderlinePosition: 10
+UnderlineWidth: 0
+Ascent: 1024
+Descent: 0
+InvalidEm: 0
+sfntRevision: 0x00010000
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 442 -362796752 22781]
+StyleMap: 0x0040
+FSType: 8
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1547967398
+ModificationTime: 1661768612
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 92
+VLineGap: 0
+Panose: 2 0 5 3 0 0 0 0 0 0
+OS2TypoAscent: 1024
+OS2TypoAOffset: 0
+OS2TypoDescent: 0
+OS2TypoDOffset: 0
+OS2TypoLinegap: 92
+OS2WinAscent: 1032
+OS2WinAOffset: 0
+OS2WinDescent: 0
+OS2WinDOffset: 0
+HheadAscent: 1024
+HheadAOffset: 0
+HheadDescent: 0
+HheadDOffset: 0
+OS2SubXSize: 649
+OS2SubYSize: 716
+OS2SubXOff: 0
+OS2SubYOff: 143
+OS2SupXSize: 649
+OS2SupYSize: 716
+OS2SupXOff: 0
+OS2SupYOff: 491
+OS2StrikeYSize: 50
+OS2StrikeYPos: 264
+OS2Vendor: 'PfEd'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000000.00000000.00000000.00000000
+MarkAttachClasses: 1
+DEI: 91125
+ShortTable: cvt  2
+  34
+  648
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  127
+  393
+  50
+  0
+  0
+  2
+  0
+  10
+  10
+  0
+  255
+  46
+  0
+  0
+EndShort
+LangName: 1033 "" "" "F/A-18C_Hornet-Up_Front_Controller" "FontForge : F/A-18C Hornet Up Front Controller : 7-11-2020" "" "Version 1.6" "" "" "" "" "7 and 16 segment displays as used in the F/A-18C Hornet and the AV-8B Harrier.  Created for the BlueFinBima Helios Fork.+AAoACgAK-Copyright 2019 Neil Larmour+AAoACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the +ACIA-Software+ACIA), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:+AAoACgAA-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.+AAoACgAA-THE SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
+GaspTable: 1 65535 2 0
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -72
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 8 10
+BeginPrivate: 0
+EndPrivate
+EndSplineFont

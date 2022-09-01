@@ -4,6 +4,10 @@ Fonts and font artefacts for DCS (Digital Combat Simulator).  Orginal Adobe Illu
 All of the characters and symbols are created as different layers in the single Illustrator file, and then they are isolated (the unwanted layers need to be deleted and an SVG is created for each character.  These single character SVG files are in this repository as well.
 
 # Fonts
-Hornet_UFC_Unified - This is used for the 16 segment displays and the 7 segment displays on the Hornet and Harrier Up Front Controller (UFC)
-https://github.com/BlueFinBima/DCS-Fonts/blob/master/FA-18C%20and%20AV-8B%20UFC/Output/Hornet_UFC_Unified.ttf
-
+1. A-10C_ALQ_213.ttf
+1. A-10C_ARC_164.ttf
+1. A-10C_Digital_Clock.ttf
+1. F-16C_Viper_DED.ttf
+1. FA-18C_Hornet_IFEI.ttf
+1. FA-18C_Hornet_Up_Front_Controller.ttf
+1. Viper_DED.ttf
